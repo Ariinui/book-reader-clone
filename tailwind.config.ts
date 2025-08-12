@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				bookshelf: {
+					teal: 'hsl(var(--bookshelf-teal))',
+					'teal-hover': 'hsl(var(--bookshelf-teal-hover))',
+					'gray-light': 'hsl(var(--bookshelf-gray-light))',
+					'gray-medium': 'hsl(var(--bookshelf-gray-medium))',
+					'text-muted': 'hsl(var(--bookshelf-text-muted))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
