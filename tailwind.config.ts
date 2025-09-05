@@ -52,12 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
-				bookshelf: {
-					teal: 'hsl(var(--bookshelf-teal))',
-					'teal-hover': 'hsl(var(--bookshelf-teal-hover))',
-					'gray-light': 'hsl(var(--bookshelf-gray-light))',
-					'gray-medium': 'hsl(var(--bookshelf-gray-medium))',
-					'text-muted': 'hsl(var(--bookshelf-text-muted))'
+				litera: {
+					blue: 'hsl(var(--litera-blue))',
+					'blue-hover': 'hsl(var(--litera-blue-hover))',
+					light: 'hsl(var(--litera-light))',
+					text: 'hsl(var(--litera-text))',
+					'text-light': 'hsl(var(--litera-text-light))',
+					border: 'hsl(var(--litera-border))'
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
